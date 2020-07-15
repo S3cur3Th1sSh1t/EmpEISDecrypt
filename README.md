@@ -8,7 +8,7 @@ The Empirum Client Management Software is used for typical client management tas
 * Software Management  
 * License Management
 
-This repository contains POC-Code to deobfuscate Empirum EIS-generated obfuscated passwords using CVE-2019-16259. To exploit this vulnerability an attacker needs access to Empcrypt.exe as well as Matrix42.Common.AppVerificator.dll.  A Short description, of how the decryption process is taking place can be looked up in the embedded "Empirum-Vulnerabilities_v1.0 EN.pdf".
+This repository contains POC-Code to deobfuscate Empirum EIS-generated obfuscated passwords. To exploit this vulnerability an attacker needs access to Empcrypt.exe as well as Matrix42.Common.AppVerificator.dll.
 
 ![alt text](https://github.com/S3cur3Th1sSh1t/EmpEISDecrypt/raw/master/EmpEISDecrypt.JPG)
 
